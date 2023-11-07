@@ -19,7 +19,7 @@ export default ({ children }) => (
     {children}
 
     <footer>
-      <p>Copyright <span>{(new Date().getFullYear())}</span> © O.T.O. Italy. All rights reserved.</p>
+      <p>Build by <span>{(new Date().getFullYear())}</span> © Kabastro.com. All rights reserved.</p>
     </footer>
   </div>
 );
