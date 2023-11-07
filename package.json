@@ -14,7 +14,7 @@
   },
   "engines": {
   "node": "16.x"
-}
+},
   "dependencies": {
     "autosize": "^4.0.2",
     "gatsby": "^2.32.13",
